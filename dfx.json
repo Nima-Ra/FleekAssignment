@@ -3,19 +3,6 @@
     "assignment": {
       "main": "src/assignment/main.mo",
       "type": "motoko"
-    },
-    "assignment_assets": {
-      "dependencies": [
-        "assignment"
-      ],
-      "frontend": {
-        "entrypoint": "src/assignment_assets/src/index.html"
-      },
-      "source": [
-        "src/assignment_assets/assets",
-        "dist/assignment_assets/"
-      ],
-      "type": "assets"
     }
   },
   "defaults": {

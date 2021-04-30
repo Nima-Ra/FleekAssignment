@@ -1,0 +1,14 @@
+{
+    "name": "worker",
+    "version": "0.1.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+      "@dfinity/agent": "^0.8.6",
+      "btoa": "^1.2.1",
+      "node-fetch": "^2.6.1",
+      "node-webcrypto-ossl": "^2.1.2"
+    },
+    "author": "Nima Rasooli"
+  }
+  
